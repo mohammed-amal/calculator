@@ -1,0 +1,38 @@
+label{
+    color: white;
+}
+
+
+span{
+    color: aqua;
+}
+button{
+    height: 72px;
+    width: 87px;
+    font-size: 40px;
+    background-color: orange;
+    border-color: silver;
+    border-radius: 37px;
+    box-shadow: 5px;
+    border: 5px;
+    
+}
+
+
+#scr {
+    
+    height: 80px;
+    width: 355px;
+    background-color: rgb(119, 118, 118);
+    border-radius: 41px;
+    font-size: 37px;
+    pointer-events: none;
+    margin-left: auto;
+}
+
+#but {
+    
+    width: 182px;
+}
+
+
